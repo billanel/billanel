@@ -9,7 +9,7 @@ My expertise lies in designing and implementing high-performance systems to supp
 ## Technical Skills
 
 - Programming Languages: Java, Python 
-- Backend Technologies: Spring Boot, Node.js
+- Backend Technologies: Spring Boot
 - Database Management: MySQL, PostgreSQL, MongoDB
 - Infrastructure as Code: Terraform
 - Cloud Platforms: Amazon Web Services (AWS), Google Cloud Platform (GCP)
