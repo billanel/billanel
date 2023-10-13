@@ -12,9 +12,8 @@ My expertise lies in designing and implementing high-performance systems to supp
 - Backend Technologies: Spring Boot
 - Database Management: MySQL, PostgreSQL, MongoDB
 - Infrastructure as Code: Terraform
-- Cloud Platforms: Amazon Web Services (AWS), Google Cloud Platform (GCP)
 - Containerization: Docker, Kubernetes
-- CI/CD: Jenkins, GitHub Actions
+- CI/CD: Jenkins
 - Version Control: Git
   
 
